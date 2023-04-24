@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+}
+* {
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+}
+
+.backGround{
+    background-color: #2B2B2B;
+    color: white;
+}
+
+.navbar {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.bt-primary {
+    color: white;
+    background-color: #A259FF;
+    border-color: #A259FF;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.bt-primary-2 {
+    color: white;
+    background-color :#2B2B2B;
+    border-color: #A259FF;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.bt-primary :hover{
+    color: white;
+}
+.hero {
+    background-color: #2B2B2B;
+    color: white;
+
+}
+
+.hero_info_1 {
+    font-weight: 600;
+    /* font-size: 67px; */
+    line-height: 110%;
+}
+
+.card{
+    border-radius: 20px;
+    border: #2B2B2B;
+    background-color: #3B3B3B;
+}
+
+.dark_color {
+    background-color: #2B2B2B;
+}
+
+.card_2{
+    /* border: #2B2B2B; */
+    background-color: #2B2B2B;
+}
+
+.hero_info_2_1{
+    font-family: 'Space Mono';
+font-style: normal;
+font-weight: 700;
+/* font-size: 28px; */
+line-height: 140%;
+}
+
+.hero_info_2_2 {
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+/* font-size: 23.99px; */
+line-height: 160%;
+}
+
+.card-title{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+line-height: 140%;
+}
+
+.head{
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.light_text{
+    color: #858584;
+}
+
+.color{
+    background-color: #2B2B2B;
+}
+
+.font_16{
+    font-size: 12px;
+}
+
+.SpaceMono_font{
+    font-family: 'Space Mono';
+}
+
+.light_background{
+    background-color: #3B3B3B;
+    color: white;
+}
+
+.border_Radius {
+    border-radius: 20px;
+}
+
+.white_background{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.input_radius{
+    border-radius: 20px;
+    border: white;
+}
+
+.purple{
+    background-color: #A259FF;
+}
+
+
+.profile{
+    /* left: 10%; */
+    top: 75%;
+    /* transform: translate(-50%, -50%); */
+}
+
+.space_mono_700{
+    font-weight:700;
+}
